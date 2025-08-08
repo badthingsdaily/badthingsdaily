@@ -2463,5 +2463,65 @@
       "id": 494,
       "title": "Worst Case Scenario",
       "description": "What's the worst that can happen?"
+  },
+  {
+      "id": 495,
+      "title": "AI Authentication Override",
+      "description": "An AI-powered authentication system has granted admin access to multiple unauthorized users over the past 48 hours. Logs show confidence scores were inexplicably high."
+  },
+  {
+      "id": 496,
+      "title": "LLM Prompt Injection Attack",
+      "description": "Your customer support chatbot has been sending password reset links to attackers via prompt injection. Several accounts compromised."
+  },
+  {
+      "id": 497,
+      "title": "Model Poisoning Discovery",
+      "description": "Your ML model for fraud detection has been approving suspicious transactions at 10x normal rate. Training data tampering suspected."
+  },
+  {
+      "id": 498,
+      "title": "AI Decision Audit Crisis",
+      "description": "Regulators demand immediate explanation for why your AI system denied critical services to protected class members."
+  },
+  {
+      "id": 499,
+      "title": "Deepfake Executive Video",
+      "description": "A convincing deepfake video of your CEO announcing layoffs is circulating on social media. Stock price dropping."
+  },
+  {
+      "id": 500,
+      "title": "AI Model Extraction",
+      "description": "Competitors appear to have reverse-engineered your proprietary AI model through API queries. IP theft suspected."
+  },
+  {
+      "id": 501,
+      "title": "Adversarial Input Attack",
+      "description": "Your AI-powered security scanner is bypassed by slightly modified malware. Detection rate drops to near zero."
+  },
+  {
+      "id": 502,
+      "title": "AI Training Data Breach",
+      "description": "Your AI training dataset containing millions of customer interactions has been exfiltrated. GDPR violations imminent."
+  },
+  {
+      "id": 503,
+      "title": "Automated Decision Bias",
+      "description": "Your AI hiring system has been systematically rejecting qualified candidates. Discrimination lawsuit filed."
+  },
+  {
+      "id": 504,
+      "title": "LLM Hallucination Crisis",
+      "description": "Your AI assistant gave incorrect legal advice to thousands of users, resulting in failed court cases and liability claims."
+  },
+  {
+      "id": 505,
+      "title": "AI Supply Chain Attack",
+      "description": "A popular open-source AI library your product depends on has been backdoored. Model weights replaced with malicious versions."
+  },
+  {
+      "id": 506,
+      "title": "Voice Synthesis Fraud",
+      "description": "AI-generated voice calls impersonating executives have authorized $2M in fraudulent wire transfers. CFO confirmed it wasn't them."
   }
 ]

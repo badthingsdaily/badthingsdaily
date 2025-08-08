@@ -33,7 +33,8 @@ function App() {
       'physical': ['physical', 'building', 'office', 'theft'],
       'cloud': ['cloud', 'aws', 'azure', 'gcp', 'saas'],
       'email': ['email', 'mail', 'smtp', 'exchange', 'outlook'],
-      'mobile': ['mobile', 'phone', 'android', 'ios', 'app']
+      'mobile': ['mobile', 'phone', 'android', 'ios', 'app'],
+      'AI': [' ai ', 'artificial intelligence', 'machine learning', ' ml ', 'llm', 'language model', 'chatbot', 'gpt', 'neural', 'deepfake', 'training data', 'hallucination', 'prompt injection']
     };
     
     for (const [tag, keywords] of Object.entries(keywordMap)) {
