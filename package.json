@@ -16,8 +16,8 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "react-scripts": "5.0.1",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "react-scripts": "5.0.1"
   },
   "eslintConfig": {
     "extends": [
