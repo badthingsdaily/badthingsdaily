@@ -127,10 +127,6 @@ function App() {
               <a href="https://www.linkedin.com/in/m4goo/" target="_blank" rel="noopener noreferrer">
                 Ryan McGeehan
               </a>
-              <br/>Created with ❤️ by{' '}
-              <a href="https://www.adversis.io" target="_blank" rel="noopener noreferrer">
-                Adversis
-              </a>
             </p>
           </div>
         </div>
@@ -263,12 +259,6 @@ function App() {
             by {' '}
             <a href="https://www.linkedin.com/in/m4goo/" target="_blank" rel="noopener noreferrer">
               Ryan McGeehan
-            </a>
-          </p>
-          <p className="created-by">
-            Created with ❤️ by{' '}
-            <a href="https://www.adversis.io" target="_blank" rel="noopener noreferrer">
-              Adversis
             </a>
           </p>
         </footer>

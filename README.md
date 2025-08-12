@@ -76,4 +76,3 @@ These security scenarios were originally shared on [x.com/badthingsdaily](https:
 - This application is intended for educational and training purposes only
 - For commercial use or redistribution of the scenarios, please contact the original author
 
-Created with ❤️ by [Adversis](https://www.adversis.io)
